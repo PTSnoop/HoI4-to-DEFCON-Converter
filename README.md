@@ -14,15 +14,15 @@ Using CImg (CeCILL-licensed) for image-wrangling. Paradox-save-format parser and
 
 # Screenshots
 
-![Alternate History](https://imgur.com/6d2CynH)
+![Alternate History](https://i.imgur.com/6d2CynH.jpg)
 
 If 1939 had nukes: Axis vs Allies vs Comintern.
 
-![Border Gore](https://imgur.com/0NWxJOv)
+![Border Gore](https://i.imgur.com/0NWxJOv.jpg)
 
 From EU4: a slightly different set of colonial empires.
 
-![Colonial Empires](https://imgur.com/gr8Z9xk)
+![Colonial Empires](https://i.imgur.com/gr8Z9xk.jpg)
 
 War of the Atlantic: alternate-universe France vs Spain.
 
