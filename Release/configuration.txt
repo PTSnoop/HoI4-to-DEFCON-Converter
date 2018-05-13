@@ -1,0 +1,30 @@
+configuration = {
+
+    # The path to the save file to be converted.
+    savefile = "D:\Paradox Interactive\Hearts of Iron IV\save games\From1600s_1936_01_28_21.hoi4"
+
+    # The path to your Hearts of Iron 4 installation.
+    HOI4directory = "D:\Steam\steamapps\common\Hearts of Iron IV"
+
+    # The path to a Hearts of Iron 4 mod, if you're using one. Optional.
+    HOI4ModDirectory = "D:\Paradox Interactive\Hearts of Iron IV\mod\From1600s_3_1836"
+
+    # The path to your DEFCON installation.
+    # Optional. If present, the converter will copy the finished mod into your Defcon/mods folder.
+    DEFCONdirectory = "D:\Steam\steamapps\common\Defcon"
+    
+    # How the sides are chosen. Three options:
+    # "powerful" - the six largest nations.
+    # "factions" - one side each for the allies, axis and comintern. The three largest unaligned 
+    #              nations also get a side each.
+    # "custom"   - you choose which Hoi3 tags go on each side, as shown below.
+    superpowers = "powerful" # powerful, factions, custom
+
+    # if "custom" superpowers, enter your own six sets of tags here.
+    side1 = {GER ITA}
+    side2 = {ENG FRA}
+    side3 = {SOV MON TAN}
+    side4 = {FIN NOR SWE DEN}
+    side5 = {JAP}
+    side6 = {USA}
+}

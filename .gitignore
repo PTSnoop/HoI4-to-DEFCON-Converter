@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+
+# Visual Studio things
+*.pdb
+*.ipdb
+*.iobj
+*.tlog
+*.idb
+*.log
